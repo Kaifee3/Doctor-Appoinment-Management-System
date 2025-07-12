@@ -8,9 +8,9 @@
 @import 'app-sass/mixins';
 
 @import 'variables';
-$primary: #64c839;
+
 body.simple-page{
-	background-color: $success;
+	background-color: $primar;
 	padding-top: 8%;
 }
 
@@ -29,7 +29,7 @@ body.simple-page{
 }
 
 .simple-page-form{
-	background-color: #fff;
+	background-color: #58f609;
 	border-radius: 6px;
 	padding: 24px;
 	margin-bottom: 24px;
