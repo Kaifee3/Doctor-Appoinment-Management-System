@@ -202,7 +202,7 @@ PERFORMANCE OPTIMIZATION:
 • Use CDN for static assets
 • Implement caching strategies
 
-c:\Users\91950\Pictures\Screenshots\signup pages.png c:\Users\91950\Pictures\Screenshots\Home pages.png c:\Users\91950\Pictures\Screenshots\Booking pages.png c:\Users\91950\Pictures\Screenshots\Review pages.png c:\Users\91950\Pictures\Screenshots\login pages.png
+
 ================================================================================
 
 END OF README
